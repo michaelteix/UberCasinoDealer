@@ -1,0 +1,2240 @@
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:46:39 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : spliced 7fa0ac856700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524959199.155871939
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:46:39 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : spliced 7fa0ac856700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524959199.172573683
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:46:39 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : spliced 7fa0ac856700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524959199.173672980
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:46:39 CDT 2018
+Description : SOAP service is reachable via port 39839
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : cmsoap 7fa0aa17a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524959199.179930139
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:46:39 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : cmsoap 7fa0aa17a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524959199.180184216
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:46:39 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : ddsi2 7fa0a9e0a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524959199.198532882
+========================================================================================
+Report      : WARNING
+Date        : Sat Apr 28 18:48:51 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 77502746. (DCPSPublication state 0)
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : OSPL Garbage Collector 7fa0aa68a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1524959331.311123174
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:48:51 CDT 2018
+Description : Termination request (signal 2) received from PID 3732 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <3732>
+Thread      : signalHandler 7fa0aac9a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524959331.809005306
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:59:33 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : spliced 7fe207676700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524959973.057996212
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:59:33 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : spliced 7fe207676700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524959973.063374999
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:59:33 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : spliced 7fe207676700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524959973.067185723
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:59:33 CDT 2018
+Description : SOAP service is reachable via port 34973
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : cmsoap 7fe204f9a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524959973.071377526
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:59:33 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : cmsoap 7fe204f9a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524959973.071829009
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 18:59:33 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : ddsi2 7fe204c2a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524959973.077295901
+========================================================================================
+Report      : WARNING
+Date        : Sat Apr 28 19:01:55 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 851984379. (DCPSPublication state 0)
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : OSPL Garbage Collector 7fe2054aa700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1524960115.135495748
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:04:14 CDT 2018
+Description : Termination request (signal 2) received from PID 4247 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <4247>
+Thread      : signalHandler 7fe205aba700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524960254.195633936
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:05:50 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : spliced 7f608be66700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524960350.710210768
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:05:50 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : spliced 7f608be66700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524960350.726000014
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:05:50 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : spliced 7f608be66700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960350.732452683
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:05:50 CDT 2018
+Description : SOAP service is reachable via port 40273
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : cmsoap 7f608978a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524960350.742178382
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:05:50 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : cmsoap 7f608978a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960350.742426864
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:05:50 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : ddsi2 7f608941a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960350.793722414
+========================================================================================
+Report      : WARNING
+Date        : Sat Apr 28 19:10:20 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 471082658. (DCPSPublication state 0)
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : OSPL Garbage Collector 7f6089c9a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1524960620.932973848
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:10:31 CDT 2018
+Description : Termination request (signal 2) received from PID 4385 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <4385>
+Thread      : signalHandler 7f608a2aa700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524960631.949024004
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:10:33 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <4474>
+Thread      : spliced 7fb779996700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524960633.448288757
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:10:33 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <4474>
+Thread      : spliced 7fb779996700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524960633.489114954
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:10:33 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4474>
+Thread      : spliced 7fb779996700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960633.501989112
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:10:33 CDT 2018
+Description : SOAP service is reachable via port 40043
+Node        : michael-VirtualBox
+Process     : Player <4474>
+Thread      : cmsoap 7fb7772ba700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524960633.509651026
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:10:33 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4474>
+Thread      : cmsoap 7fb7772ba700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960633.509889731
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:10:33 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4474>
+Thread      : ddsi2 7fb776f4a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960633.516163833
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:11:55 CDT 2018
+Description : Termination request (signal 2) received from PID 4474 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <4474>
+Thread      : signalHandler 7fb777dda700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524960715.030817512
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:12:06 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : spliced 7f1a8eaa6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524960726.060171810
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:12:06 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : spliced 7f1a8eaa6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524960726.076155605
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:12:06 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : spliced 7f1a8eaa6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960726.081505077
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:12:06 CDT 2018
+Description : SOAP service is reachable via port 45057
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : cmsoap 7f1a8c3ca700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524960726.083880018
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:12:06 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : cmsoap 7f1a8c3ca700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960726.084112287
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:12:06 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : ddsi2 7f1a5ffff700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524960726.169187467
+========================================================================================
+Report      : WARNING
+Date        : Sat Apr 28 19:20:14 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 21287329. (DCPSPublication state 0)
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : OSPL Garbage Collector 7f1a8c8da700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1524961214.661128156
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:20:28 CDT 2018
+Description : Termination request (signal 2) received from PID 4556 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <4556>
+Thread      : signalHandler 7f1a8ceea700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524961228.155566548
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:05 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : spliced 7fa7bad36700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524962885.737366566
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:05 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : spliced 7fa7bad36700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524962885.770634035
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : spliced 7fa7bad36700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524962885.771304207
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:05 CDT 2018
+Description : SOAP service is reachable via port 43613
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : cmsoap 7fa7b865a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524962885.772748529
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : cmsoap 7fa7b865a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524962885.773080481
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : ddsi2 7fa7b82ea700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524962885.782206274
+========================================================================================
+Report      : WARNING
+Date        : Sat Apr 28 19:48:27 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 603856042. (DCPSPublication state 0)
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : OSPL Garbage Collector 7fa7b8b6a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1524962907.784884523
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:52 CDT 2018
+Description : Termination request (signal 2) received from PID 2245 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <2245>
+Thread      : signalHandler 7fa7b917a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524962932.156493798
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:57 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <2368>
+Thread      : spliced 7f08f9d86700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524962937.417691170
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:57 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <2368>
+Thread      : spliced 7f08f9d86700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524962937.423007121
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:57 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2368>
+Thread      : spliced 7f08f9d86700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524962937.434629257
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:57 CDT 2018
+Description : SOAP service is reachable via port 43809
+Node        : michael-VirtualBox
+Process     : Player <2368>
+Thread      : cmsoap 7f08f76aa700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524962937.435694448
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:57 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2368>
+Thread      : cmsoap 7f08f76aa700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524962937.435900903
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:48:57 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2368>
+Thread      : ddsi2 7f08f733a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524962937.458522165
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 19:49:08 CDT 2018
+Description : Termination request (signal 2) received from PID 2368 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <2368>
+Thread      : signalHandler 7f08f81ca700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524962948.335693138
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 21:07:57 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <3428>
+Thread      : spliced 7fa29cece700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1524967677.532256403
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 21:07:57 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <3428>
+Thread      : spliced 7fa29cece700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1524967677.543126306
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 21:07:57 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3428>
+Thread      : spliced 7fa29cece700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524967677.550043212
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 21:07:57 CDT 2018
+Description : SOAP service is reachable via port 35437
+Node        : michael-VirtualBox
+Process     : Player <3428>
+Thread      : cmsoap 7fa29a7f2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1524967677.553468184
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 21:07:57 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3428>
+Thread      : cmsoap 7fa29a7f2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524967677.556316047
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 21:07:57 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3428>
+Thread      : ddsi2 7fa29a482700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1524967677.577231836
+========================================================================================
+Report      : INFO
+Date        : Sat Apr 28 21:08:27 CDT 2018
+Description : Termination request (signal 2) received from PID 3428 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <3428>
+Thread      : signalHandler 7fa29b312700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1524967707.769007557
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 10:51:53 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : spliced 7fe2d92ce700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525276313.609175071
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 10:51:53 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : spliced 7fe2d92ce700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525276313.636166522
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 10:51:53 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : spliced 7fe2d92ce700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525276313.637159772
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 10:51:53 CDT 2018
+Description : SOAP service is reachable via port 42227
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : cmsoap 7fe2d6bf2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525276313.639374539
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 10:51:53 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : cmsoap 7fe2d6bf2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525276313.639526292
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 10:51:53 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : ddsi2 7fe2d6882700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525276313.651976940
+========================================================================================
+Report      : WARNING
+Date        : Wed May 02 10:54:31 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1088599357. (DCPSPublication state 0)
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : OSPL Garbage Collector 7fe2d7102700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525276471.747721666
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:16:54 CDT 2018
+Description : Termination request (signal 2) received from PID 3431 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <3431>
+Thread      : signalHandler 7fe2d7712700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525281414.229467318
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:17:14 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <3983>
+Thread      : spliced 7efd371ee700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525281434.167922970
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:17:14 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <3983>
+Thread      : spliced 7efd371ee700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525281434.173486761
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:17:14 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3983>
+Thread      : spliced 7efd371ee700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525281434.174799371
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:17:14 CDT 2018
+Description : SOAP service is reachable via port 38541
+Node        : michael-VirtualBox
+Process     : Player <3983>
+Thread      : cmsoap 7efd34b12700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525281434.178506642
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:17:14 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3983>
+Thread      : cmsoap 7efd34b12700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525281434.178722692
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:17:14 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3983>
+Thread      : ddsi2 7efd347a2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525281434.184277546
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 12:17:39 CDT 2018
+Description : Termination request (signal 2) received from PID 3983 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <3983>
+Thread      : signalHandler 7efd35632700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525281459.955083076
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 19:51:43 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <6480>
+Thread      : spliced 7f00b9a1e700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525308703.520229217
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 19:51:43 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <6480>
+Thread      : spliced 7f00b9a1e700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525308703.555541273
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 19:51:43 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <6480>
+Thread      : spliced 7f00b9a1e700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525308703.570175341
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 19:51:43 CDT 2018
+Description : SOAP service is reachable via port 45863
+Node        : michael-VirtualBox
+Process     : Player <6480>
+Thread      : cmsoap 7f00b7342700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525308703.582510771
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 19:51:43 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <6480>
+Thread      : cmsoap 7f00b7342700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525308703.582829486
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 19:51:43 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <6480>
+Thread      : ddsi2 7f00b6fd2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525308703.634327014
+========================================================================================
+Report      : INFO
+Date        : Wed May 02 19:52:47 CDT 2018
+Description : Termination request (signal 2) received from PID 6480 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <6480>
+Thread      : signalHandler 7f00b7e62700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525308767.321337761
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:52:05 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <2759>
+Thread      : spliced 7f2a9edbe700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525387925.791663520
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:52:05 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <2759>
+Thread      : spliced 7f2a9edbe700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525387925.815739393
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:52:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2759>
+Thread      : spliced 7f2a9edbe700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525387925.816881421
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:52:05 CDT 2018
+Description : SOAP service is reachable via port 46389
+Node        : michael-VirtualBox
+Process     : Player <2759>
+Thread      : cmsoap 7f2a9c6e2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525387925.818743233
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:52:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2759>
+Thread      : cmsoap 7f2a9c6e2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525387925.818976829
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:52:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2759>
+Thread      : ddsi2 7f2a9c372700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525387925.823538905
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:58:32 CDT 2018
+Description : Termination request (signal 2) received from PID 2759 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <2759>
+Thread      : signalHandler 7f2a9d202700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525388312.986124095
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:58:37 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <3128>
+Thread      : spliced 7fc8391ce700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525388317.511871004
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:58:37 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <3128>
+Thread      : spliced 7fc8391ce700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525388317.517362078
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:58:37 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3128>
+Thread      : spliced 7fc8391ce700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525388317.518179118
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:58:37 CDT 2018
+Description : SOAP service is reachable via port 36839
+Node        : michael-VirtualBox
+Process     : Player <3128>
+Thread      : cmsoap 7fc836af2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525388317.519308174
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:58:37 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3128>
+Thread      : cmsoap 7fc836af2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525388317.519488299
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:58:37 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3128>
+Thread      : ddsi2 7fc836782700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525388317.526408877
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 17:59:52 CDT 2018
+Description : Termination request (signal 2) received from PID 3128 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <3128>
+Thread      : signalHandler 7fc837612700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525388392.014817436
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 18:00:30 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <3235>
+Thread      : spliced 7f789513e700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525388430.600772217
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 18:00:30 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <3235>
+Thread      : spliced 7f789513e700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525388430.607016521
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 18:00:30 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3235>
+Thread      : spliced 7f789513e700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525388430.609083938
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 18:00:30 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3235>
+Thread      : ddsi2 7f78926f2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525388430.617052599
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 18:00:30 CDT 2018
+Description : SOAP service is reachable via port 43105
+Node        : michael-VirtualBox
+Process     : Player <3235>
+Thread      : cmsoap 7f7892a62700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525388430.618919900
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 18:00:30 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <3235>
+Thread      : cmsoap 7f7892a62700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525388430.619272241
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 18:02:03 CDT 2018
+Description : Termination request (signal 2) received from PID 3235 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <3235>
+Thread      : signalHandler 7f7893582700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525388523.845730705
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 23:36:38 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : spliced 7f8e84cee700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525408598.391393139
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 23:36:38 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : spliced 7f8e84cee700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525408598.401546334
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 23:36:38 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : spliced 7f8e84cee700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525408598.402718168
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 23:36:38 CDT 2018
+Description : SOAP service is reachable via port 41255
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : cmsoap 7f8e82612700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525408598.406705084
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 23:36:38 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : cmsoap 7f8e82612700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525408598.408128986
+========================================================================================
+Report      : INFO
+Date        : Thu May 03 23:36:38 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : ddsi2 7f8e822a2700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525408598.417431497
+========================================================================================
+Report      : WARNING
+Date        : Thu May 03 23:37:22 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 2127027234. (DCPSPublication state 0)
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : OSPL Garbage Collector 7f8e82b22700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525408642.426030329
+========================================================================================
+Report      : INFO
+Date        : Fri May 04 00:03:32 CDT 2018
+Description : Termination request (signal 2) received from PID 2771 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <2771>
+Thread      : signalHandler 7f8e83132700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525410212.843572499
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 14:47:05 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : michael-VirtualBox
+Process     : Player <16178>
+Thread      : spliced 7f8a9a4c7700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525549625.003102818
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 14:47:05 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : michael-VirtualBox
+Process     : Player <16178>
+Thread      : spliced 7f8a9a4c7700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525549625.015105253
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 14:47:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <16178>
+Thread      : spliced 7f8a9a4c7700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525549625.017540800
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 14:47:05 CDT 2018
+Description : SOAP service is reachable via port 42439
+Node        : michael-VirtualBox
+Process     : Player <16178>
+Thread      : cmsoap 7f8a73d82700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525549625.019951205
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 14:47:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <16178>
+Thread      : cmsoap 7f8a73d82700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525549625.020150089
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 14:47:05 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : michael-VirtualBox
+Process     : Player <16178>
+Thread      : ddsi2 7f8a73a12700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525549625.068946382
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 14:48:41 CDT 2018
+Description : Termination request (signal 2) received from PID 16178 (self), UID 1000
+Node        : michael-VirtualBox
+Process     : Player <16178>
+Thread      : signalHandler 7f8a9890a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525549721.480120606
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 17:01:41 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : spliced 7fba3f3f6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525557701.472979492
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 17:01:41 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : spliced 7fba3f3f6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525557701.477075059
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 17:01:41 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : spliced 7fba3f3f6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525557701.477697821
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 17:01:41 CDT 2018
+Description : SOAP service is reachable via port 41249
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : cmsoap 7fba3cd49700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525557701.478710937
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 17:01:41 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : cmsoap 7fba3cd49700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525557701.478869755
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 17:01:41 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : ddsi2 7fba3c9da700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525557701.481509461
+========================================================================================
+Report      : WARNING
+Date        : Sat May 05 17:01:57 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 515845334. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : OSPL Garbage Collector 7fba3d252700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525557717.501795048
+========================================================================================
+Report      : INFO
+Date        : Sat May 05 17:03:22 CDT 2018
+Description : Termination request (signal 2) received from PID 19553 (self), UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <19553>
+Thread      : signalHandler 7fba3d860700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525557802.059458453
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 16:24:49 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : spliced 7f4ae1d20700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525641889.953434446
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 16:24:49 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : spliced 7f4ae1d20700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525641889.957539958
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 16:24:49 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : spliced 7f4ae1d20700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525641889.958275474
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 16:24:49 CDT 2018
+Description : SOAP service is reachable via port 36005
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : cmsoap 7f4adf673700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525641889.964049228
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 16:24:49 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : cmsoap 7f4adf673700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525641889.964243026
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 16:24:49 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : ddsi2 7f4adf304700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525641889.968138024
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 16:27:16 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1091028260. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : OSPL Garbage Collector 7f4adfb7c700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525642036.030756845
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 16:28:06 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1543916786. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : OSPL Garbage Collector 7f4adfb7c700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525642086.081675753
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 16:39:26 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1799793773. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : OSPL Garbage Collector 7f4adfb7c700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525642766.703287210
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:41 CDT 2018
+Description : Termination request (signal 2) received from PID 24058 (self), UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <24058>
+Thread      : signalHandler 7f4ae018a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525645361.521987388
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:43 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <3947>
+Thread      : spliced 7f104e7f8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645363.486117529
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:43 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <3947>
+Thread      : spliced 7f104e7f8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645363.504050097
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:43 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <3947>
+Thread      : spliced 7f104e7f8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645363.505551146
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:43 CDT 2018
+Description : SOAP service is reachable via port 41423
+Node        : kyle-VirtualBox
+Process     : Player <3947>
+Thread      : cmsoap 7f104c14b700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645363.536189832
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:43 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <3947>
+Thread      : cmsoap 7f104c14b700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645363.536345627
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:43 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <3947>
+Thread      : ddsi2 7f1037d91700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645363.539590063
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:46 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <3985>
+Thread      : spliced 7fce249ae700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645366.814110061
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:46 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <3985>
+Thread      : spliced 7fce249ae700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645366.818439530
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:46 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <3985>
+Thread      : spliced 7fce249ae700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645366.829429765
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:46 CDT 2018
+Description : SOAP service is reachable via port 44289
+Node        : kyle-VirtualBox
+Process     : Player <3985>
+Thread      : cmsoap 7fce22301700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645366.830725404
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:46 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <3985>
+Thread      : cmsoap 7fce22301700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645366.830891703
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:46 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <3985>
+Thread      : ddsi2 7fce21f92700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645366.853586195
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:50 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4023>
+Thread      : spliced 7f92a3e61700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645370.966319815
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:50 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4023>
+Thread      : spliced 7f92a3e61700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645370.970718803
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:50 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4023>
+Thread      : spliced 7f92a3e61700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645370.972410409
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:50 CDT 2018
+Description : SOAP service is reachable via port 44857
+Node        : kyle-VirtualBox
+Process     : Player <4023>
+Thread      : cmsoap 7f92a17b4700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645370.973541435
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:50 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4023>
+Thread      : cmsoap 7f92a17b4700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645370.974846473
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:50 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4023>
+Thread      : ddsi2 7f92a1445700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645370.985023270
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:54 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4061>
+Thread      : spliced 7f501e9bc700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645374.910669070
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:54 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4061>
+Thread      : spliced 7f501e9bc700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645374.914568390
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:54 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4061>
+Thread      : spliced 7f501e9bc700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645374.923686211
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:54 CDT 2018
+Description : SOAP service is reachable via port 39511
+Node        : kyle-VirtualBox
+Process     : Player <4061>
+Thread      : cmsoap 7f501c30f700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645374.931263291
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:54 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4061>
+Thread      : cmsoap 7f501c30f700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645374.932433841
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:22:54 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4061>
+Thread      : ddsi2 7f501c1ca700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645374.976689421
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:23:00 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4101>
+Thread      : spliced 7f09158d8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645380.662834748
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:23:00 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4101>
+Thread      : spliced 7f09158d8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645380.679517400
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:23:00 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4101>
+Thread      : spliced 7f09158d8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645380.682676443
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:23:00 CDT 2018
+Description : SOAP service is reachable via port 36637
+Node        : kyle-VirtualBox
+Process     : Player <4101>
+Thread      : cmsoap 7f091322b700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645380.684135533
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:23:00 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4101>
+Thread      : cmsoap 7f091322b700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645380.701783081
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:23:00 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4101>
+Thread      : ddsi2 7f0912ebc700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645380.750869665
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:29 CDT 2018
+Description : Termination request (signal 2) received from PID 4101 (self), UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4101>
+Thread      : signalHandler 7f0913d42700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525645469.400254654
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:30 CDT 2018
+Description : Termination request (signal 2) received from PID 4061 (self), UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4061>
+Thread      : signalHandler 7f501ce26700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525645470.240361137
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:30 CDT 2018
+Description : Termination request (signal 2) received from PID 4023 (self), UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4023>
+Thread      : signalHandler 7f92a22cb700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525645470.882154154
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:31 CDT 2018
+Description : Termination request (signal 2) received from PID 3985 (self), UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <3985>
+Thread      : signalHandler 7fce22e18700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525645471.576485082
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:32 CDT 2018
+Description : Termination request (signal 2) received from PID 3947 (self), UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <3947>
+Thread      : signalHandler 7f104cc62700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525645472.224585275
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:40 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : spliced 7fe66305a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645480.164134791
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:40 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : spliced 7fe66305a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645480.168071739
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:40 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : spliced 7fe66305a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645480.171797111
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:40 CDT 2018
+Description : SOAP service is reachable via port 36745
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : cmsoap 7fe6609ad700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645480.183525721
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:40 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : cmsoap 7fe6609ad700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645480.193439573
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:40 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : ddsi2 7fe66063e700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645480.198859388
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:42 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : spliced 7ff4f68fe700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645482.419279693
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:42 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : spliced 7ff4f68fe700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645482.423574685
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:42 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : spliced 7ff4f68fe700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645482.424591055
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:42 CDT 2018
+Description : SOAP service is reachable via port 46809
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : cmsoap 7ff4f4251700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645482.428702069
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:42 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : cmsoap 7ff4f4251700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645482.428980446
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:42 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : ddsi2 7ff4f4150700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645482.432987158
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:44 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : spliced 7f6bfccec700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645484.580505559
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:44 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : spliced 7f6bfccec700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645484.587616447
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:44 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : spliced 7f6bfccec700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645484.602468898
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:44 CDT 2018
+Description : SOAP service is reachable via port 36311
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : cmsoap 7f6bfa63f700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645484.618723339
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:44 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : cmsoap 7f6bfa63f700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645484.628710238
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:44 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : ddsi2 7f6bfa2bf700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645484.645148831
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:46 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : spliced 7fba41ce8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645486.716456002
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:46 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : spliced 7fba41ce8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645486.736566790
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:46 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : spliced 7fba41ce8700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645486.739768015
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:46 CDT 2018
+Description : SOAP service is reachable via port 41053
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : cmsoap 7fba3f63b700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645486.740544692
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:46 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : cmsoap 7fba3f63b700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645486.740813852
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:46 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : ddsi2 7fba3f288700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645486.805492230
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:48 CDT 2018
+Description : u_domainNew:Database allocated on heap
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : spliced 7f133bf5d700
+Internals   : V6.4.140320OSS/24b1387/24b1387/user::u_domain::u_domainNew/u_domain.c/706/0/1525645488.983209887
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:48 CDT 2018
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : spliced 7f133bf5d700
+Internals   : V6.4.140320OSS/24b1387/24b1387/The OpenSplice domain service/u_domain.c/827/0/1525645488.987411466
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:48 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : spliced 7f133bf5d700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645488.988269868
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:48 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : ddsi2 7f1339541700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645488.992401443
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:48 CDT 2018
+Description : SOAP service is reachable via port 41923
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : cmsoap 7f13398b0700
+Internals   : V6.4.140320OSS/24b1387/24b1387/CM SOAP Service/cms_service.c/410/0/1525645488.992935075
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:24:48 CDT 2018
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : cmsoap 7f13398b0700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_serviceChangeState/v_service.c/329/0/1525645488.993851043
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:25:50 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1332839534. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : OSPL Garbage Collector 7ff4f475a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645550.483484447
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:25:50 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1332839534. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : OSPL Garbage Collector 7f6bfab48700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645550.646261499
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:25:50 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1332839534. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : OSPL Garbage Collector 7fba3fb44700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645550.768996333
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:25:51 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1332839534. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : OSPL Garbage Collector 7f1339db9700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645551.019931641
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:25:52 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1332839534. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : OSPL Garbage Collector 7fe660eb6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645552.226335327
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:27:06 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1986227071. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : OSPL Garbage Collector 7ff4f475a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645626.503664995
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:27:06 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1986227071. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : OSPL Garbage Collector 7f6bfab48700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645626.670053111
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:27:06 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1986227071. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : OSPL Garbage Collector 7fba3fb44700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645626.792863100
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:27:07 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1986227071. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : OSPL Garbage Collector 7f1339db9700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645627.073885480
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:27:08 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1986227071. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : OSPL Garbage Collector 7fe660eb6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525645628.275955510
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:35:26 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1610538070. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : OSPL Garbage Collector 7fe660eb6700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525646126.626586264
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:35:26 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1610538070. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : OSPL Garbage Collector 7ff4f475a700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525646126.787129971
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:35:26 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1610538070. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : OSPL Garbage Collector 7f6bfab48700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525646126.969022528
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:35:27 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1610538070. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : OSPL Garbage Collector 7fba3fb44700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525646127.054747007
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:35:27 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1610538070. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : OSPL Garbage Collector 7f1339db9700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525646127.382433952
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:35:33 CDT 2018
+Description : Termination request (signal 1) received from PID 19520, UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4261>
+Thread      : signalHandler 7fe6614c4700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525646133.500012796
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:35:35 CDT 2018
+Description : Termination request (signal 1) received from PID 3895, UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4303>
+Thread      : signalHandler 7ff4f4d68700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525646135.583499088
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:35:40 CDT 2018
+Description : Termination request (signal 1) received from PID 3907, UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4341>
+Thread      : signalHandler 7f6bfb156700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525646140.989359695
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:35:43 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1121578334. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : OSPL Garbage Collector 7fba3fb44700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525646143.060667153
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:35:43 CDT 2018
+Description : Termination request (signal 1) received from PID 3917, UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4379>
+Thread      : signalHandler 7fba40152700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525646143.243566177
+========================================================================================
+Report      : WARNING
+Date        : Sun May 06 17:35:43 CDT 2018
+Description : Missed heartbeat for node - heartbeat id : 1121578334. (DCPSPublication state 0)
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : OSPL Garbage Collector 7f1339db9700
+Internals   : V6.4.140320OSS/24b1387/24b1387/v_spliced/v_spliced.c/2439/0/1525646143.366255273
+========================================================================================
+Report      : INFO
+Date        : Sun May 06 17:35:44 CDT 2018
+Description : Termination request (signal 1) received from PID 3927, UID 1000
+Node        : kyle-VirtualBox
+Process     : Player <4417>
+Thread      : signalHandler 7f133a3c7700
+Internals   : V6.4.140320OSS/24b1387/24b1387/signalHandlerThread/os_signalHandler.c/503/0/1525646144.523079863
